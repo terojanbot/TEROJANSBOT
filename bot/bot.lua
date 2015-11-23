@@ -237,7 +237,7 @@ function create_config( )
 end
 
 function on_our_id (id)
-  our_id = id
+ @XNFRATX = id
 end
 
 function on_user_update (user, what)
