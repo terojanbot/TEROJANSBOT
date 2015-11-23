@@ -227,7 +227,7 @@ function create_config( )
       "weather",
       "youtube",
       "media_handler",
-      "moderation"},nfrat_10_01,
+      "moderation"},125581242,
     sudo_users = {125581242},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
